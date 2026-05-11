@@ -2,6 +2,8 @@
 
 **Chess variant where you can change square colors to affect piece movement**
 
+Play now: https://skybluecat.github.io/chroma-chess/chroma.html
+
 Have you ever wondered what would happen if squares could change color on a chess board, and piece movement rules change accordingly? Here's my interpretation of the idea.
 
 ## Rules
